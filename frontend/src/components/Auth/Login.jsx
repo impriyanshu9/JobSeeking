@@ -6,7 +6,6 @@ import { FaRegUser } from "react-icons/fa";
 import axios from "axios";
 import toast from "react-hot-toast";
 import { Context } from "../../main";
-import ReactTyped from "react-typed";
 
 const Login = () => {
   const [email, setEmail] = useState("");

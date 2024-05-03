@@ -9,7 +9,7 @@ const HowItWorks = () => {
     <>
       <div className="howitworks">
         <div className="container">
-          <h3>How JobZee Works</h3>
+          <h3>How Job Portal Works</h3>
           <div className="banner">
             <div className="card">
             
@@ -23,16 +23,14 @@ const HowItWorks = () => {
               <MdFindInPage />
               <p>Find a Job/Post a Job</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Job Seeker find their jobs and they can apply with this Portal and Recuirter post their job.
               </p>
             </div>
             <div className="card">
               <IoMdSend />
               <p>Apply For Job/Recruit Suitable Candidates</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Apply for the job through this portal and to find the suitable Candidates for their company by the Recuirter.
               </p>
             </div>
           </div>
